@@ -1,0 +1,20 @@
+/* 两列定宽布局 */
+.g-bd {
+	width: 800px;
+	margin: 200px auto;
+	color: #fff;
+}
+
+.g-mn {
+	float: left;
+	width: 580px;
+	height: 200px;
+	background: #e51400;
+}
+
+.g-sd {
+	float: right;
+	width: 210px;
+	height: 200px;
+	background: #339933;
+}
