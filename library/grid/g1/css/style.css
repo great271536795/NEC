@@ -1,0 +1,25 @@
+/* 两列右侧自适应布局 */
+.g-bd1 {
+	margin: 200px auto;
+	width: 800px;
+}
+
+.g-sd1 {
+	position: relative;
+	float: left;
+	width: 190px;
+	height: 200px;
+	margin-right: -190px;
+	background: #4eb3b9;
+}
+
+.g-mn1 {
+	float: right;
+	width: 100%;
+}
+
+.g-mn1c {
+	margin-left: 210px;
+	height: 200px;
+	background: #ff0097;
+}

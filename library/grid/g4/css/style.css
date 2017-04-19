@@ -1,0 +1,35 @@
+/* 三列中间自适应布局 */
+.g-bd5 {
+	width: 800px;
+	margin: 200px auto;
+	color: #fff;
+}
+
+.g-sd51 {
+	float: left;
+	width: 190px;
+	margin-right: -190px;
+	height: 200px;
+	background: #e51400;
+}
+
+.g-mn5 {
+	float: left;
+	width: 100%;
+}
+
+.g-mn5c {
+	margin-left: 200px;
+	margin-right: 200px;
+	height: 200px;
+	background: #ff0097;
+}
+
+.g-sd52 {
+	float: right;
+	width: 190px;
+	margin-left: -190px;
+	height: 200px;
+	background: #4eb3b9;
+
+}
