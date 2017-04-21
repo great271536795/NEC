@@ -1,0 +1,13 @@
+/* 简易文字链接列表 */
+.m-list {
+	width: 800px;
+	margin: 0 auto;
+	padding-top: 200px;
+	padding-left: 600px;
+	line-height: 21px;
+}
+
+.m-list a, .m-list a:hover {
+	text-decoration: none;
+	color: #777;
+}
